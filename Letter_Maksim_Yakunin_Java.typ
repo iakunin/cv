@@ -2,7 +2,6 @@
 #import "./lib/lib.typ": letter
 #let metadata = toml("./metadata.toml")
 
-
 #show: letter.with(
   metadata,
   myAddress: "Your Address Here",
@@ -12,6 +11,8 @@
   subject: "Subject: Hey!",
   signature: image("src/signature.png"),
 )
+
+#show link: underline
 
 Dear Hiring Manager,
 
@@ -40,6 +41,9 @@ about the future project challenges and looking forward to overcome them. It rea
 bring value to the company and see how my solutions impact the end user. So, we would be a great
 fit for each other.
 
-Please contact me via LinkedIn, or email. Looking forward to our conversation!
+Please contact me via LinkedIn (https://www.linkedin.com/in/iakunin/),
+or email (#link("mailto:yakuninm@gmail.com")[yakuninm\@gmail.com]).
+
+Looking forward to our conversation!
 
 Sincerely,
