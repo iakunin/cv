@@ -1,5 +1,5 @@
 // Imports
-#import "../lib/letter.typ": letter
+#import "./lib/lib.typ": letter
 #let metadata = toml("./metadata.toml")
 
 
@@ -15,18 +15,31 @@
 
 Dear Hiring Manager,
 
-I am excited to submit my application for the Senior Data Analyst position at ABC Company. With over 5 years of experience in data analysis and a demonstrated track record of success, I am confident in my ability to make a valuable contribution to your team.
+I am very interested in the Senior Java Developer position, as I believe I can effectively meet the
+company’s needs and exceed your expectations for this role. Here are some of my key
+achievements:
 
-In my current role as a Data Analyst at XYZ Company, I have gained extensive experience in data mining, quantitative analysis, and data visualization. Through my work, I have developed a deep understanding of statistical concepts and have become adept at using tools such as SQL, Python, and R to extract insights from complex datasets. I have also gained valuable experience in presenting complex data in a visually appealing and easily accessible manner to stakeholders across all levels of an organization.
+• Senior Java backend developer with 10+ years of commercial experience, working in teams ranging from 2 to 40 members,
+  both remotely and on-site.
 
-I believe that my experience in data analysis makes me an ideal candidate for the Senior Data Analyst position at ABC Company. I am particularly excited about the opportunity to apply my skills to support your organization's mission and drive impactful insights. Your focus on driving innovative solutions to complex problems aligns closely with my own passion for using data analysis to drive positive change in organizations.
+• Built full cycle of development:
+  from gathering product owner requirements to establishing fully automated release process using CI/CD with high test
+  coverage and constant monitoring of production environment, including automated alerts to metrics deviations using AI.
 
-In my current role, I have been responsible for leading data projects from initiation to completion. I work closely with cross-functional teams to identify business problems and use data to develop solutions that drive business outcomes. I have a proven track record of delivering high-quality work on time and within budget.
+• Expert in architecting and implementing robust microservices solutions with excellent scalability,
+  maintainability and performance. I am deeply committed to enhancing system efficiency.
 
-Furthermore, I have extensive experience in developing and implementing data-driven solutions that improve business operations. For example, I have implemented predictive models that have improved sales forecasting accuracy by 10%, resulting in significant cost savings. I have also developed dashboards that provide real-time insights into business performance, enabling stakeholders to make more informed decisions.
+Overall, I am not just a doer: I am an achiever. My priority is to create reliable and scalable
+solutions rather than just getting things done. With extensive experience in both small startups and
+large corporate projects (over 100 thousands users), I am ready to tackle any challenge your company
+may face.
 
-As a highly motivated and detail-oriented individual, I am confident that I would thrive in the fast-paced and dynamic environment at ABC Company. I am excited about the opportunity to work with a talented team of professionals and to continue developing my skills in data analysis.
+Also, I have looked through your website, your company’s values are inspiring! It is extremely
+important for me to work in an environment that promotes inclusivity and equality. I am excited
+about the future project challenges and looking forward to overcome them. It really matters to me
+bring value to the company and see how my solutions impact the end user. So, we would be a great
+fit for each other.
 
-Thank you for considering my application. I look forward to the opportunity to discuss my qualifications further.
+Please contact me via LinkedIn, or email. Looking forward to our conversation!
 
 Sincerely,
