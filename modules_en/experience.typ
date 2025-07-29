@@ -11,7 +11,7 @@
   society: [Selfworker LTD],
   title: [Senior+ Software Engineer],
   logo: image("../src/logos/selfworker_logo.png"),
-  date: [1 year 10+ months],
+  date: [2 years 1+ months],
   location: [07/2023 - PRESENT],
   description: list(
     [Migrated from Java 11 to 21 and from Spring Boot 2 to 3, reducing development time for new parsers from *\~80 hours* to *\~20 hours*.],
